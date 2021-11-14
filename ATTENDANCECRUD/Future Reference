@@ -1,0 +1,2 @@
+1.JDBC connection with the database @application.properties.
+2.Create controller (java),Entity,repository.
